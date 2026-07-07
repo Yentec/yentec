@@ -7,30 +7,12 @@ My portfolio repo below reflects the standards I hold myself to — strict TypeS
 
 ## 🚀 Tech Stack
 
-**Frontend**
-- React
-- Next.js
-- Vite
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Fastify
-- Express
-
-**Databases**
-- PostgreSQL
-- MySQL
-- Redis
-
-**DevOps & Tools**
-- Docker
-- GitHub Actions
-- Linux
-- Git
-
-**Languages**
-- TypeScript
+| | |
+|---|---|
+| **Frontend** | React · Next.js · Vite · Tailwind CSS |
+| **Backend** | Node.js · Fastify · Express |
+| **Database** | PostgreSQL · MySQL · Redis |
+| **DevOps** | Docker · GitHub Actions · Linux · Git |
 
 ## 💼 What I build
 
