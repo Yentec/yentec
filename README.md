@@ -2,7 +2,7 @@
 
 TypeScript full-stack developer specializing in React, Next.js and Node.js.
 
-I enjoy turning ideas into complete products—from database design and backend architecture to polished user interfaces and production deployment. My focus is on building reliable, maintainable software with a strong attention to user experience.
+I enjoy turning ideas into complete products, from database design and backend architecture to polished user interfaces and production deployment. My focus is on building reliable, maintainable software with a strong attention to user experience.
 My portfolio repo below reflects the standards I hold myself to — strict TypeScript, clean architecture, CI, and accessibility.
 
 ## 🚀 Tech Stack
